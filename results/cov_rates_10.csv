@@ -1,0 +1,5 @@
+,SplitPredictor,ClusterPredictor,ClassWisePredictor
+THR,0.865,0.869,0.865
+APS,0.876,0.872,0.866
+SAPS,0.878,0.872,0.883
+RAPS,0.862,0.864,0.86
